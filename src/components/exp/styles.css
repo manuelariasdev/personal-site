@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Cormorant+SC&family=Tangerine:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Cormorant+SC&family=Dosis:wght@200;400;600&family=Tangerine:wght@400;700&display=swap');
+.exp{
+    font-family: "Audiowide", sans-serif;
+    margin: 100px;
+    color: #08fdd8;
+    display: flex;
+}
+
+.exp__tag{
+    font-family: 'Tangerine', serif;
+    font-size: 2rem;
+    color: rgb(148 163 184);;
+    padding-bottom: .1px;
+}
+
+.exp__leftlowe--text{
+    color: #fff;
+    font-family: 'Dosis', sans-serif;
+    font-size: 1.2rem;
+    line-height: 32px;
+}
+.exp__leftlower--link{
+    color: #fff;
+}
+
+.exp__leftlower--shake{
+    text-decoration: none;
+    color: #08fdd8;
+    display: inline-block;
+}
+
+.exp__leftlower--shake:hover{
+    animation: shake .4s;
+}
+
+.exp__leftside{
+    width: 50%;
+}
+
+.exp__rightside{
+    width: 50%;
+}
+
+.exp__rightside--skillsbar{
+    padding: 10px;
+}
+
+.exp__skills{
+    font-size: 1.1rem;
+    color: #fff;
+}
+
+.exp__footerSkill{
+    background-color: #373737;
+    height: 2px;
+}
+
+.exp__frontendDiv{
+    background-color: rgb(3, 255, 251);
+    height: 100%;
+    width: 90%;
+}
+
+.exp__react{
+    background-color: rgb(193, 0, 232);
+    height: 100%;
+    width: 70%;
+}
+
+.exp__redux{
+    background-color: rgb(71, 85, 236);
+    height: 100%;
+    width: 70%;
+}
+
+.exp__javascript{
+    background-color: rgb(244, 224, 1);
+    height: 100%;
+    width: 80%;
+}
+
+.exp__html{
+    background-color: rgb(234, 115, 12);
+    height: 100%;
+    width: 90%;
+}
+
+.exp__css{
+    background-color: rgb(12, 234, 208);
+    height: 100%;
+    width: 90%;
+}
+
+.exp__git{
+    background-color: rgb(140, 215, 11);
+    height: 100%;
+    width: 90%;
+}
+
+.exp__rightside--lower{
+    background-color: #333333;
+    color: #fff;
+    font-family: 'Dosis', sans-serif;
+    font-size: 1.2rem;
+}
+
+@keyframes shake{0%,100%{-webkit-transform:translate3d(0, 0, 0);-ms-transform:translate3d(0, 0, 0);transform:translate3d(0, 0, 0)}10%,30%,50%,70%,90%{-webkit-transform:translate3d(-10px, 0, 0);-ms-transform:translate3d(-10px, 0, 0);transform:translate3d(-10px, 0, 0)}20%,40%,60%,80%{-webkit-transform:translate3d(10px, 0, 0);-ms-transform:translate3d(10px, 0, 0);transform:translate3d(10px, 0, 0)}}

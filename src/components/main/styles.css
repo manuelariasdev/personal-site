@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Cormorant+SC&family=Tangerine:wght@400;700&display=swap');
+
+.main{
+    font-family: "Audiowide", sans-serif;
+    margin: 100px;
+    
+}
+
+.main__tag{
+    font-family: 'Tangerine', serif;
+    font-size: 2rem;
+    color: rgb(148 163 184);;
+}
+
+.main__softw{
+    font-size: 2rem;
+    color: rgb(148 163 184);;
+}
+
+
+
