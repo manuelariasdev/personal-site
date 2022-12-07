@@ -17,5 +17,10 @@
     color: rgb(148 163 184);;
 }
 
-
+@media (max-width:500px){
+    .main{
+        margin: 15px;
+    }
+    
+}
 
