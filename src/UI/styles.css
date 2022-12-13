@@ -168,7 +168,9 @@
 
   .initial{
     position: absolute;
-    background-color: rgba(33, 40, 238, 0.576);
+    /* background-color: rgba(33, 40, 238, 0.576); */
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(52,41,154,1) 67%, rgba(0,56,255,1) 100%);
+
     top: -700px;
     left: -5000px;
     width: 100%;

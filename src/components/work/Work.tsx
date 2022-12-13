@@ -36,7 +36,7 @@ export const Work = () => {
         </div>
         
         <div className='work___container--card'>
-          <a href='https://react-spotify-mu.vercel.app/' target='_blank'>
+          <a href='https://hacker-news-react-app-eduardo-dev.netlify.app' target='_blank'>
           <div className='work__cover--card'>
               <img src={hackerNews} alt='spotify'/>
             </div>
